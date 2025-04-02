@@ -2,9 +2,9 @@
 
 ![Conversor de moeda em execução](./img.png)
 
-**##Sobre o Projeto**
+**Sobre o Projeto**
 
-Este é um conversor de moeda que permite aos usuários converter valores de Wons sul-coreanos (KRW) para Reais brasileiros (BRL). O projeto foi desenvolvido como parte da Imersão DEV da Alura 2025. o projeto foi implementado para capturar e retornar valores de inputs com JavaScript.
+Este é um conversor de moeda que permite aos usuários converter valores de Wons sul-coreanos (KRW) para Reais brasileiros (BRL). O projeto foi desenvolvido como parte da Imersão DEV da Alura 2025 e foi implementado para capturar e retornar valores de inputs com JavaScript.
 
  Funcionalidade
 
@@ -19,4 +19,4 @@ Este é um conversor de moeda que permite aos usuários converter valores de Won
 * CSS3: Estilização e responsividade.
 * JavaScript: Implementação da lógica de conversão.
 
- Estrutura do Projeto
+ 
